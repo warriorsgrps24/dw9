@@ -1,0 +1,10 @@
+[
+  {
+    "owner": "abc",
+    "ownerid": "123",
+    "client": "def",
+    "clientid": "456",
+    "type": null,
+    "status": "operating"
+  }
+]
